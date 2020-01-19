@@ -1,5 +1,7 @@
 
+include "Hazel"
 hazelWorkspace("Opportunity2024")
+setupHazel()
 
 project "Opportunity2024"
 
